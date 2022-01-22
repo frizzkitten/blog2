@@ -28,5 +28,14 @@
       <description>First post what up!?</description>
     </item>
     
+    <item>
+      <title>Archive</title>
+      <link>https://www.flynnblair.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.flynnblair.com/archive/</guid>
+      <description>SUP</description>
+    </item>
+    
   </channel>
 </rss>
