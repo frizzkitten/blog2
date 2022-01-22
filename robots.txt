@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: flynnblair.com/sitemap.xml
